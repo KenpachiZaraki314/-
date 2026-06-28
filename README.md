@@ -133,3 +133,5 @@ print(power)
 ## Результат
 
 Разработанная программа вычисляет  возможную силу драконьей стаи при заданном общем количестве голов.
+<img width="500" height="824" alt="image" src="https://github.com/user-attachments/assets/e5c46340-597a-4f53-8c65-4da32f00e70e" />
+
